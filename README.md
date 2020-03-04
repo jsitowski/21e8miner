@@ -34,4 +34,8 @@ If you don't know how to get p2pkh addresses, use https://polynym.io
 
 ### What is 21e8?
 
-Check the blockchain.
+"21e8 is a special metaprotocol on top of bitcoin that facilitates cryptographic pricing of any piece of information, providing an alternative to today's big tech recommender models.
+
+Bridging information content and attention with proof of work opens the potential for true information supply chains for software, media and more.
+
+We call these new computational data markets because they combine real-time content creation with distributed data exchange."
